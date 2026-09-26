@@ -1,0 +1,2 @@
+Item,Brand,Material,Quantity,Estimated amount (g),Approx cost (INR),Basis
+PLA filament,Add actual filament brand,PLA,1,0.71,0.71,CAD/STL volume estimate; assumes PLA density 1.24 g/cm³ and ₹1000/kg
